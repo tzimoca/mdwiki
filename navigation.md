@@ -1,4 +1,4 @@
-# Your wiki name
+# SIM's wiki
 
 [Home](index.md)
 [About](about.md)
